@@ -1,0 +1,1841 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.13)  27 APR 2026 21:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/ktrog/Desktop/5th-experiment-reports/report_template/report.tex
+(c:/Users/ktrog/Desktop/5th-experiment-reports/report_template/report.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(c:/texlive/2025/texmf-dist/tex/platex/base/jarticle.cls
+
+c:/texlive/2025/texmf-dist/tex/platex/base/jarticle.cls:16: LaTeX Error: This file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./eee.sty (c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks18
+) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen156
+)) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count278
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count279
+\leftroot@=\count280
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count281
+\DOTSCASE@=\count282
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count283
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count284
+\dotsspace@=\muskip17
+\c@parentequation=\count285
+\dspbrk@lvl=\count286
+\tag@help=\toks20
+\row@=\count287
+\column@=\count288
+\maxfields@=\count289
+\andhelp@=\toks21
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+) (c:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 106.
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2025/09/29 v5.0n Graphics/color driver for dvipdfmx
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+) (c:/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (c:/texlive/2025/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (c:/texlive/2025/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks24
+) (c:/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count290
+\multirow@dima=\skip53
+\bigstrutjot=\dimen167
+) (c:/texlive/2025/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvipdfmx.def on input line 149.
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (c:/texlive/2025/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count291
+\lst@gtempboxa=\box55
+\lst@token=\toks25
+\lst@length=\count292
+\lst@currlwidth=\dimen168
+\lst@column=\count293
+\lst@pos=\count294
+\lst@lostspace=\dimen169
+\lst@width=\dimen170
+\lst@newlines=\count295
+\lst@lineno=\count296
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\lst@maxwidth=\dimen171
+ (c:/texlive/2025/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (c:/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count297
+\lst@skipnumbers=\count298
+\lst@framebox=\box56
+) (c:/texlive/2025/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (./jlisting.sty
+Package: jlisting 2006/02/20 0.2 (Thor)
+\lst@nextchar=\count299
+\lst@inputfile=\read2
+) (c:/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+) (c:/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+)) (c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (c:/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (c:/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen172
+\captionmargin=\dimen173
+\caption@leftmargin=\dimen174
+\caption@rightmargin=\dimen175
+\caption@width=\dimen176
+\caption@indent=\dimen177
+\caption@parindent=\dimen178
+\caption@hangindent=\dimen179
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count300
+\c@continuedfloat=\count301
+Package caption Info: listings package is loaded.
+)
+\c@KVtest=\count302
+\sf@farskip=\skip56
+\sf@captopadj=\dimen180
+\sf@capskip=\skip57
+\sf@nearskip=\skip58
+\c@subfigure=\count303
+
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: LaTeX Error: No counter 'figure' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\c@subfigure@save=\count304
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Extra \endcsname.
+\newcounter ...ifdefinable \csname c@#1\endcsname 
+                                                  {\@definecounter {#1}}\@if...
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+\c@=\count305
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Extra \endcsname.
+\@definecounter ...ewcount \csname c@#1\endcsname 
+                                                  \setcounter {#1}\z@ \globa...
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Extra \endcsname.
+\@ifundefined #1->\ifcsname #1\endcsname 
+                                         \@ifundefin@d@i \else \@ifundefin@d...
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing number, treated as zero.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Extra \endcsname.
+<argument> ...xt@figure\endcsname depth\endcsname 
+                                                  \z@ \relax 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Extra \endcsname.
+\@definecounter ...r \let \csname cl@#1\endcsname 
+                                                  \@empty \@addtoreset {#1}{...
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Extra \endcsname.
+\@definecounter ...er \let \csname p@#1\endcsname 
+                                                  \@empty \expandafter \xdef...
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Command `\the\ext@figure depth' already defined -- not changed on input line 298.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Extra \endcsname.
+\@ifundefined #1->\ifcsname #1\endcsname 
+                                         \@ifundefin@d@i \else \@ifundefin@d...
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing number, treated as zero.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Extra \endcsname.
+<argument> ...xt@figure\endcsname depth\endcsname 
+                                                  \@ne \relax 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no ^^A in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:298: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@figure 
+l.298 ...ined{c@subfigure}{\newsubfloat{figure}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+\c@subtable=\count306
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:299: LaTeX Error: No counter 'table' defined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.299 ...efined{c@subtable}{\newsubfloat{table}}{}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\c@subtable@save=\count307
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:299: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@table 
+l.299 ...efined{c@subtable}{\newsubfloat{table}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:299: Extra \endcsname.
+\@ifundefined #1->\ifcsname #1\endcsname 
+                                         \@ifundefin@d@i \else \@ifundefin@d...
+l.299 ...efined{c@subtable}{\newsubfloat{table}}{}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:299: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@table 
+l.299 ...efined{c@subtable}{\newsubfloat{table}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:299: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@table 
+l.299 ...efined{c@subtable}{\newsubfloat{table}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+c:/texlive/2025/texmf-dist/tex/latex/subfig/subfig.sty:299: Missing \endcsname inserted.
+<to be read again> 
+                   \ext@table 
+l.299 ...efined{c@subtable}{\newsubfloat{table}}{}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+\sf@top=\skip59
+\sf@bottom=\skip60
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 298--516
+[]
+ []
+
+) (c:/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+ (c:/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count308
+\calc@Bcount=\count309
+\calc@Adimen=\dimen181
+\calc@Bdimen=\dimen182
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count310
+\calc@Cskip=\skip63
+) (c:/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen183
+\ESO@tempdimb=\dimen184
+
+c:/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty:192: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.192 }
+       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+) (c:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count311
+)
+\AM@pagewidth=\dimen185
+\AM@pageheight=\dimen186
+\AM@fboxrule=\dimen187
+ (c:/texlive/2025/texmf-dist/tex/latex/pdfpages/ppdvipdfmx.def
+File: ppdvipdfmx.def 2025/07/23 v0.6g Pdfpages driver for dvipdfmx (AM)
+)
+\pdfpages@includegraphics@status=\count312
+\AM@pagebox=\box57
+\AM@global@opts=\toks26
+\AM@pagecnt=\count313
+\AM@toc@title=\toks27
+\AM@lof@heading=\toks28
+\c@AM@survey=\count314
+\AM@templatesizebox=\box58
+) (c:/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count315
+\float@exts=\toks29
+\float@box=\box59
+\@float@everytoks=\toks30
+\@floatcapt=\box60
+) (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (c:/texlive/2025/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+ (c:/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count316
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (c:/texlive/2025/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (c:/texlive/2025/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+ (c:/texlive/2025/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box61
+)
+\tc@llx=\dimen188
+\tc@lly=\dimen189
+\tc@urx=\dimen190
+\tc@ury=\dimen191
+ (c:/texlive/2025/texmf-dist/tex/latex/adjustbox/tc-pgf.def
+File: tc-pgf.def 2019/01/04 v2.2 trimclip fall-back clipping driver using PGF
+ (c:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen192
+\pgfutil@tempdimb=\dimen193
+) (c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box62
+) (c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2025/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (c:/texlive/2025/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
+ (c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks36
+))
+\pgf@x=\dimen194
+\pgf@y=\dimen195
+\pgf@xa=\dimen196
+\pgf@ya=\dimen197
+\pgf@xb=\dimen198
+\pgf@yb=\dimen199
+\pgf@xc=\dimen256
+\pgf@yc=\dimen257
+\pgf@xd=\dimen258
+\pgf@yd=\dimen259
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count317
+\c@pgf@countb=\count318
+\c@pgf@countc=\count319
+\c@pgf@countd=\count320
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count321
+ (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-dvipdfmx.def
+ (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+ (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count322
+)) (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count323
+\pgfsyssoftpath@bigbuffer@items=\count324
+) (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvipdfmx.def on input line 274.
+LaTeX Info: Redefining \color on input line 762.
+ (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `1' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `1' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `1' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.75' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.5' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.25' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.75' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `1' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `1' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.5' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `1' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.75' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.75' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.75' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.25' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.5' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Missing number, treated as zero.
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Package color Error: Argument `0.5' not in range [0,1].
+
+See the color package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \p@ 
+l.1444 ...olet,.5,0,.5/.83333,1,.5/0,.5,0,.5/.205}
+                                                  %
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 8616 strings out of 469686
+ 144355 string characters out of 5476673
+ 644715 words of memory out of 5000000
+ 36933 multiletter control sequences out of 15000+600000
+ 627721 words of font info for 40 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 105i,0n,110p,509b,266s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty:1444:  ==> Fatal error occurred, no output PDF file produced!

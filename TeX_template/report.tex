@@ -1,0 +1,72 @@
+\documentclass[11pt,dvipdfmx]{jarticle}
+
+% `eee` パッケージが環境に無いことが多いため、簡易代替定義をここに置きます。
+% 本テンプレートで使われているコマンドと環境を最低限定義し、コンパイル可能にします。
+\makeatletter
+\providecommand{\Gakunen}{}
+\providecommand{\NumTitleNum}{}
+\providecommand{\NumTitleTitle}{}
+\providecommand{\SubTitle}{}
+\providecommand{\Jikkenbi}{}
+\providecommand{\JikkenbiII}{}
+\providecommand{\Kyoudou}{}
+\providecommand{\Yoteibi}{}
+\providecommand{\HanNumber}{}
+\providecommand{\StudentNumber}{}
+\providecommand{\StudentName}{}
+\newcommand{\gakunen}[1]{\renewcommand{\Gakunen}{#1}}
+\newcommand{\numTitle}[2]{\renewcommand{\NumTitleNum}{#1}\renewcommand{\NumTitleTitle}{#2}}
+\newcommand{\subTitle}[1]{\renewcommand{\SubTitle}{#1}}
+\newcommand{\jikkenbi}[1]{\renewcommand{\Jikkenbi}{#1}}
+\newcommand{\jikkenbiII}[1]{\renewcommand{\JikkenbiII}{#1}}
+\newcommand{\kyoudou}[1]{\renewcommand{\Kyoudou}{#1}}
+\newcommand{\yoteibi}[1]{\renewcommand{\Yoteibi}{#1}}
+\newcommand{\hanNumberName}[3]{\renewcommand{\HanNumber}{#1}\renewcommand{\StudentNumber}{#2}\renewcommand{\StudentName}{#3}}
+\newenvironment{jikkenTitle}{%
+	\thispagestyle{empty}
+	\begin{center}
+		{\Huge \bfseries 実験報告書}\\[2em]
+	}{%
+		\vfill
+		\begin{tabular}{rl}
+			学年: & \Gakunen \\
+			実験番号・タイトル: & \NumTitleNum\quad \NumTitleTitle \\
+			サブタイトル: & \SubTitle \\
+			実験日: & \Jikkenbi \\
+			実験日(二日目): & \JikkenbiII \\
+			共同実験者: & \Kyoudou \\
+			予定日: & \Yoteibi \\
+			班番号・学生番号・氏名: & \HanNumber\ / \StudentNumber\ / \StudentName \\
+		\end{tabular}
+		\end{center}
+		\clearpage
+}
+\makeatother
+
+\begin{document}
+% トップページを書く
+\begin{jikkenTitle}
+	\gakunen{学年} % 学年を記述。この行で全体の枠を表示
+	\numTitle{実験番号}{実験タイトル} % 実験番号、タイトルを記述
+	\subTitle{} % サブタイトルがあれば記述
+	\jikkenbi{平成XX年Y月ZZ日(AA)} % 実験日を記述
+	\jikkenbiII{平成xx年y月zz日(aa)} % 実験日を記述(二日目がある場合。ない場合はこの行をコメントアウト)
+	\kyoudou{共同実験者名} % 共同実験者名を記述
+	\yoteibi{MM/DD}% 予定日を記述
+	\hanNumberName{4}{3399}{小林 弘幸} % 班番号・学生番号・氏名を記述。この行でタイトルページの描画を終了
+\end{jikkenTitle}
+
+\section{目的}
+\section{原理}
+\section{方法}
+\section{結果}
+\section{考察}
+\section{結論}
+
+\begin{thebibliography}{9}% 参考文献が10個以上になる場合は数字を99に変更
+	%\bibitem{xxx}
+\end{thebibliography}
+
+
+\end{document}
+

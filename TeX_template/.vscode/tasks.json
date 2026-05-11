@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile LaTeX",
+      "type": "shell",
+      "command": "latexmk",
+      "args": [
+        "-pdfdvi",
+        "-interaction=nonstopmode",
+        "-halt-on-error",
+        "${file}"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "showReuseMessage": true,
+        "clear": false
+      },
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
